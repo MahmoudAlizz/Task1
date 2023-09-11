@@ -1,0 +1,16 @@
+.bg1 {
+  background-color: rgb(128, 68, 132);
+}
+.bg2 {
+  background-color: rgb(231, 240, 5);
+}
+.bg3 {
+  background-color: rgb(121, 159, 46);
+}
+.bg4 {
+  background-color: rgb(175, 175, 175);
+}
+
+.border-r-4 {
+  border-radius: 5px;
+}
